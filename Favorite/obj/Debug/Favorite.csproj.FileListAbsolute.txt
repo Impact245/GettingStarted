@@ -1,0 +1,6 @@
+C:\Users\eahscs\Documents\GitHub\Favorite\bin\Debug\Favorite.exe.config
+C:\Users\eahscs\Documents\GitHub\Favorite\bin\Debug\Favorite.exe
+C:\Users\eahscs\Documents\GitHub\Favorite\bin\Debug\Favorite.pdb
+C:\Users\eahscs\Documents\GitHub\Favorite\obj\Debug\Favorite.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\Favorite\obj\Debug\Favorite.exe
+C:\Users\eahscs\Documents\GitHub\Favorite\obj\Debug\Favorite.pdb
